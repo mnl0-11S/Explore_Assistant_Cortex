@@ -1,4 +1,3 @@
-project_name: "explore_assistant"
 application: explore_assistant {
   label: "Explore Assistant"
   #url: "https://localhost:8080/bundle.js"
